@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433726073020",
+    "project_id": "vision-swing",
+    "storage_bucket": "vision-swing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433726073020:android:90dced14992a95e4a9c8b9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433726073020-o8nm488r7svsinecad5grqgr5vdto2ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFn5-cFsOwd1QbPMp7F64RPdfHqHcHdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433726073020-o8nm488r7svsinecad5grqgr5vdto2ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
